@@ -11,7 +11,7 @@ LOGIN_URL = f"{BASE_URL}/login"
 
 # --- валидные ---
 VALID_USER = {
-    "email": f"test_user_0005@example.com",
+    "email": f"test_user_0006@example.com",
     "first_name": "John",
     "last_name": "Doe",
     "password": "password123",
